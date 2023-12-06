@@ -1,0 +1,30 @@
+body {font-family: Arial, Helvetica, sans-serif;
+    color: coral;
+    border: darkblue 5px;}
+.lista {text-align: right;
+    border: 5px solid;
+    border-color: #148f77;}
+h2 {text-decoration: underline;}
+
+table, th, td{
+    border:1px solid black;
+}
+
+table{
+    border-collapse: collapse;
+    margin: auto;
+}
+
+th, td{
+    padding: 10px;
+    text-align: center;
+    width: 120px;
+}
+
+th{
+    font-weight: 120px
+}
+
+tr:nth-child(even) {
+    background-color: aliceblue;
+}

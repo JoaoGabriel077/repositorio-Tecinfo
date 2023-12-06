@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+    margin: 20px;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+    background-image: url('imagens/manow.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+section {
+    margin: 20px 0;
+   
+}
+
+.logo{text-align: right;
+}
+
+.cabeçalho{text-align: center;}
+
+.tupac{text-align: left;
+       top: 100%;}
+
+
+h1{text-align: center;
+    top: 70%;    
+
+
+}
+
+h2 {
+    color: #333;
+}
+
+p {
+    line-height: 1.6;
+}
+
+.rodape{text-align: center;
+    position: absolute;
+    top: 300%;
+    left: 40%;
+    margin: 0px 0 0px}
+
+
+
+
+
